@@ -37,10 +37,3 @@ Built with modern best practices, the website’s code architecture is designed 
 - **React.js** for building dynamic and interactive user interfaces
 - **Tailwind CSS** for a utility-first, responsive design system
 
-## **🔧 Installation and Setup**
-
-To get this project up and running locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/GehanFonseka/Gaming-Website-React.js-Tailwind-CSS-GSAP.git
